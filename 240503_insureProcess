@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T02:27:49.470Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="k25G0r9nLWh3x0yzY6W3" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-17T08:52:45.119Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="jO4KRsGOs9-GbL24OJtp" version="24.6.4" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="1656" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1774" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -647,7 +647,7 @@
           <mxGeometry x="3070" y="50" width="262.5" height="190" as="geometry" />
         </mxCell>
         <mxCell id="tbg4fr-wMY1TDbsTyhFs-48" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1. 신규 보험가입 체결&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="3070" y="505" width="1070" height="470" as="geometry" />
+          <mxGeometry x="3070" y="500" width="1070" height="470" as="geometry" />
         </mxCell>
         <mxCell id="tbg4fr-wMY1TDbsTyhFs-49" value="U: 유저" style="swimlane;html=1;startSize=20;horizontal=0;" parent="tbg4fr-wMY1TDbsTyhFs-48" vertex="1">
           <mxGeometry y="20" width="1070" height="150" as="geometry" />
@@ -766,7 +766,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3oYsdKyMXmqsjtRxVcBh-37" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;2. 보장 철회&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3070" y="1035" width="1070" height="470" as="geometry" />
+          <mxGeometry x="3070" y="1040" width="1070" height="470" as="geometry" />
         </mxCell>
         <mxCell id="3oYsdKyMXmqsjtRxVcBh-38" value="U: 유저" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="3oYsdKyMXmqsjtRxVcBh-37">
           <mxGeometry y="20" width="1070" height="150" as="geometry" />
